@@ -10,5 +10,3 @@ create table usuarios(
 	usuario varchar(50) not null,
 	contrasena varchar(15) not null
 );
-
-insert into usuarios (nombre, telefono, email, usuario, contrasena) values('Ana L', '123456789', 'ana@mail.com', 'ana', 'ana');
